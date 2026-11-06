@@ -10,6 +10,6 @@ Senior full-stack software engineer in Denver, CO. Ten years shipping production
 
 ## Previously
 
-Nine years at JourneyApps as technical lead on 20+ enterprise applications for 15 client organizations, including a 7-app field-service suite for Emerson that ran in production for 5+ years.
+Nine years at JourneyApps as technical lead on 20+ enterprise applications for 15 client organizations.
 
 [jonhammond.org](https://www.jonhammond.org) · [LinkedIn](https://www.linkedin.com/in/jonhammond303) · jon@jonhammond.org
